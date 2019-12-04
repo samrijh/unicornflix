@@ -75,7 +75,7 @@ Now that we have an admin user, let's implement the asset upload logic that enab
 
     ```
 
-1. Now that our backend is configured with our frontend we will now need to provide some context to the Storage component and get the current users status from the Auth module. In the `componentDidMount` function paste the following code into the function body. You must provide the unicornflix workshop region into the object below.
+1. Now that our backend is configured with our frontend we will now need to provide some context to the Storage component and get the current users status from the Auth module. In the `componentDidMount` function paste the following code into the function body.
 
     ```javascript
     // Location 5
